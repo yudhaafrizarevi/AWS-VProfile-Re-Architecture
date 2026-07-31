@@ -99,7 +99,7 @@ The application is deployed using **AWS Elastic Beanstalk**, while leveraging mu
 
 ## Auto Scaling Group
 
-![](screenshots/auto-scaling.png)
+![](screenshots/auto-scalling.png)
 
 ---
 
