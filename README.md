@@ -15,7 +15,7 @@ Instead of deploying the application on a single EC2 instance, this project leve
 # 🏗️ Architecture
 
 <p align="center">
-    <img src="architecture/p2.png" width="100%">
+    <img src="architecture/P2.png" width="100%">
 </p>
 
 ---
